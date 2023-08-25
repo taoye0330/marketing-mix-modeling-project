@@ -8,7 +8,7 @@ Marketing Mix Modeling (MMM), also known as Media Mix Modeling, is a data-driven
 The primary purpose of Marketing Mix Modeling is to enable data-driven decision-making in marketing budget allocation. By analyzing historical data, MMM helps organizations optimize their advertising budgets across different media channels, leading to informed marketing spending decisions.
 
 ### 1.3 Difference between MMM and Multi-touch Attribution (MTA)
-While Multi-touch Attribution (MTA) focuses on tracking user-level behavior in digital channels using tags, UTMs, and cookies, Marketing Mix Modeling takes a holistic approach. MMM utilizes historical data to measure the overall attribution of both online and offline channels. In essence, MMM provides aggregate insights across all media tactics, while MTA is specific to user-level behavior in digital media channels.
+While Multi-touch Attribution (MTA) focuses on tracking user-level behavior in digital channels using tags, pixels, and cookies, Marketing Mix Modeling takes a holistic approach. MMM utilizes historical data to measure the overall attribution of both online and offline channels. In essence, MMM provides aggregate insights across all media tactics, while MTA is specific to user-level behavior in digital media channels.
 
 ### 1.4 Questions Answered by MMM and MTA Models
 Marketing Mix Modeling answers questions related to long-term budget allocation and incrementality, helping CMOs and financial teams make informed marketing spending decisions. On the other hand, Multi-touch Attribution models are geared towards short to medium-term analysis of digital-only investments. MTA can reveal which digital channels, campaigns, and target audiences are effective or ineffective.

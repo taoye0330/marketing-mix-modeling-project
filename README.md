@@ -65,5 +65,3 @@ By leveraging Marketing Mix Modeling, this project will provide valuable insight
 
 Feel free to reach out for any questions or contributions! 🚀
 ```
-
-This README.md format provides a comprehensive and structured outline for your Marketing Mix Modeling project, complete with clear sections, objectives, data overview, analysis steps, and a captivating conclusion. The use of emoji in titles adds a visually appealing touch. Remember to adapt and customize this outline to your specific project and repository on GitHub.

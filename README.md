@@ -1,4 +1,3 @@
-```markdown
 # Marketing Mix Modeling Project 📊
 
 ## 1.0 Introduction 👋

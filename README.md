@@ -35,31 +35,16 @@ This project aims to analyze data from a fashion retailer to understand the infl
 3. Determine the optimal allocation of marketing investments.
 4. Predict future sales based on the analysis.
 
-### 2.2 Data Overview 📊
-- Adwordssearch_2015.csv
-- Adwordssearch_2017.csv
-- Comp_media_spend.csv
-- Date_metadata.csv
-- Dcmdisplay_2015.csv
-- Dcmdisplay_2017.csv
-- Event.csv
-- Facebook.csv
-- offline_TV_magazine.csv
-- Sales_raw.csv
-- Wechat_csv
-- Unemployment_rate.csv
 
-### 2.3 Analysis Steps 📈
+### 2.2 Analysis Steps 📈
 1. Data Acquisition
 2. Data Processing
-3. Data Visualization and Storytelling
-4. Modeling
-5. Optimization
-6. Simulation
-7. Side-diagnostics
+3. Modeling
+4. Optimization
+5. Data Visualization and Storytelling
 
-## 2.4 Conclusion 🎉
-By leveraging Marketing Mix Modeling, this project will provide valuable insights into the impact of diverse media channels on sales for a fashion retailer. Through thorough data analysis, optimization, and prediction, the project aims to guide future marketing budget allocation decisions.
+## 2.3 Conclusion 🎉
+By leveraging Marketing Mix Modeling, this project will provide valuable insights into the impact of diverse media channels on sales for a fashion retailer. Through thorough data analysis, optimization, and prediction, the project aims to guide future marketing budget allocation decisions. Feel free to take a look at my Medium article on this project at https://medium.com/@taoye0330/demystify-marketing-mix-modeling-using-sql-r-and-excel-15c251c7779b.
 
 ---
 

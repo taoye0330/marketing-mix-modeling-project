@@ -4,7 +4,7 @@ Welcome to the repository for the "Demystifying Marketing Mix Modeling" article.
 
 ## 📚 Article
 
-Interested in a comprehensive guide? Dive into the full article:
+Interested in a comprehensive project step-by-step guide? Dive into the full article:
 [Demystifying Marketing Mix Modeling using SQL, R, and Excel](https://medium.com/@taoye0330/demystify-marketing-mix-modeling-using-sql-r-and-excel-15c251c7779b).
 
 ## 📜 Full R Code
